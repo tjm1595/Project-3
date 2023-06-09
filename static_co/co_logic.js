@@ -56,7 +56,7 @@ function createFeatures(COfireData) {
         39.113014, -105.358887
       ],
       zoom: 7,
-      layers: [street, earthquakes]
+      layers: [street, CoFire]
     });
   
     // Create a layer control.
